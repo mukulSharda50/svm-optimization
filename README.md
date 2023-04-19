@@ -1,11 +1,5 @@
 ## Optimizing Parameters of SVM
 
-**Dataset Used:** [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/)
-
-| Number of Instances:  | 45211 |
-|-----------------------|--------|
-| Number of Attributes: | 17     |
-
 ## Steps:
 1. Download the dataset
 2. Pre-process the dataset
